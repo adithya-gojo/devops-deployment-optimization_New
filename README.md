@@ -149,22 +149,3 @@ graph LR
   CI --> Terraform
   K8s --> Prometheus
 ```
-
----
-
-## 📎 Future Enhancements
-
-* Add autoscaling (K8s HPA)
-* Integrate Slack/Webhook alerts from Prometheus
-* Canary deployments using Istio or Argo Rollouts
-
----
-
-## 📬 Contact
-
-Project by [Adithya Gojo](https://github.com/adithya-gojo)
-Feel free to contribute or raise issues via GitHub!
-
----
-
-
